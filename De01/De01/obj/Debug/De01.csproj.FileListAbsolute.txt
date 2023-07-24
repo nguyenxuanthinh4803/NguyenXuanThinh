@@ -1,0 +1,15 @@
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\De01.exe.config
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\De01.exe
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\De01.pdb
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\EntityFramework.dll
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\EntityFramework.SqlServer.dll
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\EntityFramework.xml
+E:\NguyenXuanThinh_2180603004\De01\De01\bin\Debug\EntityFramework.SqlServer.xml
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.frmSinhvien.resources
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.Properties.Resources.resources
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.csproj.GenerateResource.cache
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.csproj.CopyComplete
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.exe
+E:\NguyenXuanThinh_2180603004\De01\De01\obj\Debug\De01.pdb
